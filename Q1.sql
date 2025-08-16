@@ -19,3 +19,5 @@ BEGIN
 END$$
 
 DELIMITER ;
+
+call ListAllSubscribers;
